@@ -11,4 +11,5 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     OnePlusRecentsProvider \
-    OpLauncher
+    OpLauncher \
+    OPWidget
