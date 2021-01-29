@@ -12,4 +12,5 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     OnePlusRecentsProvider \
     OpLauncher \
-    OPWidget
+    OPWidget \
+    OPWeather
