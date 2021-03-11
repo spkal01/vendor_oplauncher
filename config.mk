@@ -10,4 +10,5 @@ PRODUCT_PACKAGES += \
     OPGallery \
     OPIconpackOxygen \
     OPIconpackRound \
-    OPWidget
+    OPWidget \
+    OPWeather
