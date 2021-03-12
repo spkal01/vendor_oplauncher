@@ -1,0 +1,24 @@
+# OPLauncher
+-system_ext/priv-app/OPLauncher/OPLauncher.apk;PRESIGNED
+
+# OPWidget
+-product/app/OPWidget/OPWidget.apk;PRESIGNED
+
+# IconPacks
+-product/app/OPIconpackRound/OPIconpackRound.apk;PRESIGNED
+-product/app/OPIconpackOxygen/OPIconpackOxygen.apk;PRESIGNED
+
+# OPGallery
+-product/app/OPGallery/OPGallery.apk;PRESIGNED
+
+# OPWeather
+-product/app/OPWeather/OPWeather.apk;PRESIGNED
+
+# OnePlusRecentsProvider
+-product/overlay/OnePlusRecentsProvider/OnePlusRecentsProvider.apk;PRESIGNED
+
+# Config
+product/etc/sysconfig/op-launcher-hiddenapi-package-whitelist.xml
+
+# Permissions
+system_ext/etc/permissions/privapp-permissions-op-launcher.xml
